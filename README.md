@@ -1,5 +1,5 @@
 # S.O.L.I.D Principles
-The SOLID principle was introduced by Robert C. Martin, in his 2000 paper [Design Principles and Design Patterns](https://web.archive.org/web/20150906155800/http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf). The SOLID principle helps in reducing tight coupling. Tight coupling means a group of classes are highly dependent on each other. It has 5 important design principles which we should follow while doing OOP (Object Oriented Programming). In this article, I will be covering these principles with examples.
+The SOLID principle was introduced by Robert C. Martin, in his paper [Design Principles and Design Patterns](https://web.archive.org/web/20150906155800/http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf). The SOLID principle helps in reducing tight coupling. Tight coupling means a group of classes are highly dependent on each other. It has 5 important design principles which we should follow while doing OOP (Object Oriented Programming). In this article, I will be covering these principles with examples.
 
 ### The Five principles of SOLID
 1. Single Responsibility Principle (SRP)
