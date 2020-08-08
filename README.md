@@ -1,6 +1,3 @@
-![Alt Mountblue Technologies](https://static.wixstatic.com/media/3aca1c_390a2917371943159fa1eb8274ff9c32~mv2_d_5331_3743_s_4_2.png/v1/crop/x_0,y_16,w_5331,h_3711/fill/w_96,h_67,al_c,q_85,usm_0.66_1.00_0.01/MountBlue%20Logo_2x.webp)
-
-
 # S.O.L.I.D Principles
 The SOLID principle was introduced by Robert C. Martin, in his 2000 paper [Design Principles and Design Patterns](https://web.archive.org/web/20150906155800/http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf). The SOLID principle helps in reducing tight coupling. Tight coupling means a group of classes are highly dependent on each other. It has 5 important design principles which we should follow while doing OOP (Object Oriented Programming). In this article, I will be covering these principles with examples.
 
